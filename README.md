@@ -118,7 +118,8 @@ Qt 开发相关插件（如开发 Qt 项目）
 
 # 有这些个插件,除了第一个,其他都能在trae的插件市场下载到
 
-# 这里附上git的下载直达链接    https://release-assets.githubusercontent.com/github-production-release-asset/23216272/0e32d3c7-cf8f-4a6a-82c6-59f3153d2251?sp=r&sv=2018-11-09&sr=b&spr=https&se=2025-12-04T07%3A37%3A19Z&rscd=attachment%3B+filename%3DGit-2.50.1-64-bit.exe&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2025-12-04T06%3A37%3A02Z&ske=2025-12-04T07%3A37%3A19Z&sks=b&skv=2018-11-09&sig=spx7iyNTR6amQ7tccy8d%2FazmSTAZx8oucebSOt1hcXU%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc2NDgzMjI0NiwibmJmIjoxNzY0ODMwNDQ2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.v1xBacXBN0aLVHhPevM5wBH_r55cn1e1v81pY3tPmKA&response-content-disposition=attachment%3B%20filename%3DGit-2.50.1-64-bit.exe&response-content-type=application%2Foctet-stream
+# 这里附上git的下载直达链接    
+https://release-assets.githubusercontent.com/github-production-release-asset/23216272/0e32d3c7-cf8f-4a6a-82c6-59f3153d2251?sp=r&sv=2018-11-09&sr=b&spr=https&se=2025-12-04T07%3A37%3A19Z&rscd=attachment%3B+filename%3DGit-2.50.1-64-bit.exe&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2025-12-04T06%3A37%3A02Z&ske=2025-12-04T07%3A37%3A19Z&sks=b&skv=2018-11-09&sig=spx7iyNTR6amQ7tccy8d%2FazmSTAZx8oucebSOt1hcXU%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc2NDgzMjI0NiwibmJmIjoxNzY0ODMwNDQ2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.v1xBacXBN0aLVHhPevM5wBH_r55cn1e1v81pY3tPmKA&response-content-disposition=attachment%3B%20filename%3DGit-2.50.1-64-bit.exe&response-content-type=application%2Foctet-stream
 
 
 
